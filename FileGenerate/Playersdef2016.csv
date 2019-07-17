@@ -1,0 +1,151 @@
+Team,startupPlayers,DEFstartup,backupPlayers,DEFbackup
+Atlanta Hawks,Paul Millsap,100.1,Mike Scott,95.3
+Atlanta Hawks,Kent Bazemore,99.5,Thabo Sefolosha,97.9
+Atlanta Hawks,Al Horford,98.2,Mike Muscala,102
+Atlanta Hawks,Jeff Teague,100.9,Dennis Schroder,95.7
+Atlanta Hawks,Kyle Korver,98.1,Tim Hardaway Jr.,98
+Boston Celtics,Isaiah Thomas,102.6,Marcus Smart,100.2
+Boston Celtics,Jae Crowder,101.4,Kelly Olynyk,97.7
+Boston Celtics,Jared Sullinger,101.3,Evan Turner,100
+Boston Celtics,Avery Bradley,102.9,Jonas Jerebko,98.5
+Boston Celtics,Amir Johnson,101.3,Tyler Zeller,101.9
+Brooklyn Nets,Brook Lopez,106.3,Willie Reed,105.8
+Brooklyn Nets,Thaddeus Young,107.4,Markel Brown,113.7
+Brooklyn Nets,Joe Johnson,106.3,Donald Sloan,108.3
+Brooklyn Nets,Wayne Ellington,106.9,Jarrett Jack,107.1
+Brooklyn Nets,Bojan Bogdanovic,109.4,Shane Larkin,109.5
+Charlotte Hornets,Kemba Walker,102.2,Jeremy Lin,100.4
+Charlotte Hornets,Nicolas Batum,102.1,Jeremy Lamb,95.7
+Charlotte Hornets,P.J. Hairston,107.5,Spencer Hawes,98.9
+Charlotte Hornets,Marvin Williams,102.6,Al Jefferson,99.7
+Charlotte Hornets,Cody Zeller,103.2,Frank Kaminsky,101.2
+Chicago Bulls,Jimmy Butler,103.3,Doug McDermott,104.8
+Chicago Bulls,Derrick Rose,105.8,E'Twaun Moore,104.6
+Chicago Bulls,Taj Gibson,104.4,Nikola Mirotic,104.4
+Chicago Bulls,Mike Dunleavy,111.2,Tony Snell,97
+Chicago Bulls,Pau Gasol,103.5,Bobby Portis,108.6
+Cleveland Cavaliers,LeBron James,101.4,Richard Jefferson,102.7
+Cleveland Cavaliers,Kyrie Irving,104.7,Matthew Dellavedova,99.7
+Cleveland Cavaliers,Timofey Mozgov,103.7,Tristan Thompson,101.7
+Cleveland Cavaliers,Kevin Love,102.6,Mo Williams,103
+Cleveland Cavaliers,JR Smith,104.4,Iman Shumpert,100.7
+Detroit Pistons,Marcus Morris,103.1,Stanley Johnson,104.1
+Detroit Pistons,Ersan Ilyasova,106.4,Anthony Tolliver,102.4
+Detroit Pistons,Kentavious Caldwell-Pope,102.6,Darrun Hilliard,102.4
+Detroit Pistons,Andre Drummond,102.3,Aron Baynes,105.6
+Detroit Pistons,Reggie Jackson,104.1,Steve Blake,103.7
+Indiana Pacers,Ian Mahinmi,98.2,Jordan Hill,101.3
+Indiana Pacers,Paul George,100,Chase Budinger,102.8
+Indiana Pacers,Myles Turner,100.6,Lavoy Allen,98.2
+Indiana Pacers,George Hill,100.3,Rodney Stuckey,100.2
+Indiana Pacers,Monta Ellis,100.1,CJ Miles,102.8
+Miami Heat,Hassan Whiteside,101.7,Amar'e Stoudemire,102.4
+Miami Heat,Goran Dragic,101.4,Tyler Johnson,98.4
+Miami Heat,Dwyane Wade,103.9,Josh Richardson,101.4
+Miami Heat,Chris Bosh,100.3,Justise Winslow,99
+Miami Heat,Luol Deng,102.8,Gerald Green,102.2
+Milwaukee Bucks,Giannis Antetokounmpo,106.5,Rashad Vaughn,106.3
+Milwaukee Bucks,Jabari Parker,106.5,John Henson,102.4
+Milwaukee Bucks,Greg Monroe,107.5,Miles Plumlee,103.1
+Milwaukee Bucks,Khris Middleton,104.7,O.J. Mayo,102.3
+Milwaukee Bucks,Michael Carter-Williams,105.3,Jerryd Bayless,107.8
+New York Knicks,Carmelo Anthony,105.8,Derrick Williams,106.3
+New York Knicks,Kristaps Porzingis,104.1,Lance Thomas,103.2
+New York Knicks,Arron Afflalo,106.3,Sasha Vujacic,104.1
+New York Knicks,Jose Calderon,106.3,Langston Galloway,103.2
+New York Knicks,Robin Lopez,105.1,Kyle O'Quinn,104.3
+Orlando Magic,Tobias Harris,103.7,Aaron Gordon,104.2
+Orlando Magic,Evan Fournier,106.8,Jason Smith,104
+Orlando Magic,Nikola Vucevic,105.5,Dewayne Dedmon,103.8
+Orlando Magic,Victor Oladipo,104.5,Mario Hezonja,103.6
+Orlando Magic,Elfrid Payton,104.4,Andrew Nicholson,98.6
+Philadelphia 76ers,Robert Covington,105.1,Hollis Thompson,106.8
+Philadelphia 76ers,Jahlil Okafor,108.7,Richaun Holmes,105.1
+Philadelphia 76ers,Nerlens Noel,105.6,T.J. McConnell,106.8
+Philadelphia 76ers,Jerami Grant,105.7,Nik Stauskas,107.4
+Philadelphia 76ers,Ish Smith,108,Isaiah Canaan,107.8
+Toronto Raptors,Kyle Lowry,102.6,Norman Powell,104.1
+Toronto Raptors,DeMar DeRozan,104.1,Cory Joseph,100.2
+Toronto Raptors,Jonas Valanciunas,106.1,Bismack Biyombo,100.6
+Toronto Raptors,Luis Scola,106.7,Patrick Patterson,100.6
+Toronto Raptors,James Johnson,105,Terrence Ross,100.6
+Washington Wizards,John Wall,103.3,Ramon Sessions,103.9
+Washington Wizards,Bradley Beal,105.2,Garrett Temple,101
+Washington Wizards,Marcin Gortat,103,Nene,101.4
+Washington Wizards,Otto Porter Jr.,103.2,Kelly Oubre Jr.,103.9
+Washington Wizards,Markieff Morris,104.8,Jared Dudley,103
+Dallas Mavericks,Dirk Nowitzki,104.1,Dwight Powell,100.8
+Dallas Mavericks,Deron Williams,104,J.J. Barea,107.7
+Dallas Mavericks,Chandler Parsons,104.2,Devin Harris,102.9
+Dallas Mavericks,Wesley Matthews,105.7,Raymond Felton,105
+Dallas Mavericks,Zaza Pachulia,103.2,Justin Anderson,99.8
+Denver Nuggets,Nikola Jokic,102.9,Joffrey Lauvergne,109.8
+Denver Nuggets,Gary Harris,108.6,Randy Foye,102.5
+Denver Nuggets,Emmanuel Mudiay,107.1,Jameer Nelson,108.3
+Denver Nuggets,Kenneth Faried,109.1,Darrell Arthur,103.5
+Denver Nuggets,Danilo Gallinari,106.9,Will Barton,105.8
+Golden State Warriors,Harrison Barnes,101.6,Brandon Rush,108.7
+Golden State Warriors,Klay Thompson,99.7,Andre Iguodala,99.2
+Golden State Warriors,Stephen Curry,98.3,Shaun Livingston,101.2
+Golden State Warriors,Draymond Green,97.5,Leandro Barbosa,103.9
+Golden State Warriors,Andrew Bogut,97.2,Festus Ezeli,96.6
+Houston Rockets,Dwight Howard,105.1,Donatas Motiejunas,101.2
+Houston Rockets,Trevor Ariza,107,Corey Brewer,104.3
+Houston Rockets,Patrick Beverley,104.6,Ty Lawson,105.7
+Houston Rockets,James Harden,106,Jason Terry,106.9
+Houston Rockets,Clint Capela,103.1,Terrence Jones,112.1
+LA Clippers,DeAndre Jordan,100.3,Cole Aldrich,99.8
+LA Clippers,JJ Redick,99.4,Jamal Crawford,103.1
+LA Clippers,Luc Mbah a Moute,97.5,Paul Pierce,103.3
+LA Clippers,Blake Griffin,100,Wesley Johnson,100.4
+LA Clippers,Chris Paul,99.8,Austin Rivers,103.3
+Los Angeles Lakers,Roy Hibbert,112.6,Tarik Black,101.4
+Los Angeles Lakers,Kobe Bryant,114.1,Nick Young,108.5
+Los Angeles Lakers,Jordan Clarkson,111.5,Brandon Bass,106.9
+Los Angeles Lakers,Julius Randle,113,Larry Nance Jr.,105.9
+Los Angeles Lakers,D'Angelo Russell,110.3,Lou Williams,110.4
+Memphis Grizzlies,Matt Barnes,107.4,Jeff Green,103.6
+Memphis Grizzlies,Zach Randolph,105.8,JaMychal Green,105
+Memphis Grizzlies,Tony Allen,104.1,Courtney Lee,103.3
+Memphis Grizzlies,Marc Gasol,102.9,Vince Carter,106
+Memphis Grizzlies,Mike Conley,103.4,Mario Chalmers,100.8
+Minnesota Timberwolves,Tayshaun Prince,103.5,Zach LaVine,109.5
+Minnesota Timberwolves,Kevin Garnett,96.4,Gorgui Dieng,105.8
+Minnesota Timberwolves,Karl-Anthony Towns,108.1,Shabazz Muhammad,108.8
+Minnesota Timberwolves,Andrew Wiggins,106.6,Nemanja Bjelica,107.3
+Minnesota Timberwolves,Ricky Rubio,105.7,Tyus Jones,110.3
+New Orleans Pelicans,Tyreke Evans,105.4,Jrue Holiday,105.9
+New Orleans Pelicans,Eric Gordon,105.1,Toney Douglas,109.7
+New Orleans Pelicans,Dante Cunningham,109.1,Alonzo Gee,104.1
+New Orleans Pelicans,Anthony Davis,107.3,Ryan Anderson,106.9
+New Orleans Pelicans,Omer Asik,107.9,Alexis Ajinca,102.6
+Oklahoma City Thunder,Serge Ibaka,102.5,Nick Collison,100.4
+Oklahoma City Thunder,Steven Adams,99,Anthony Morrow,105.7
+Oklahoma City Thunder,Andre Roberson,100.8,Dion Waiters,105.4
+Oklahoma City Thunder,Kevin Durant,102.2,Kyle Singler,104
+Oklahoma City Thunder,Russell Westbrook,102.2,Enes Kanter,106.5
+Phoenix Suns,PJ Tucker,106.5,Archie Goodwin,111.6
+Phoenix Suns,Jon Leuer,104.4,Mirza Teletovic,108.9
+Phoenix Suns,Tyson Chandler,108.1,Alex Len,105.3
+Phoenix Suns,Devin Booker,108.5,Ronnie Price,100.9
+Phoenix Suns,Eric Bledsoe,103.5,Brandon Knight,107.5
+Portland Trail Blazers,Mason Plumlee,107,Allen Crabbe,106.1
+Portland Trail Blazers,Al-Farouq Aminu,106.2,Maurice Harkless,104.7
+Portland Trail Blazers,Noah Vonleh,105.4,Ed Davis,103.2
+Portland Trail Blazers,CJ McCollum,104.8,Meyers Leonard,106.4
+Portland Trail Blazers,Damian Lillard,107.3,Gerald Henderson,104.4
+Sacramento Kings,Rajon Rondo,106.8,Darren Collison,107.2
+Sacramento Kings,Ben McLemore,105.4,Marco Belinelli,106.7
+Sacramento Kings,DeMarcus Cousins,104.4,Omri Casspi,105
+Sacramento Kings,Rudy Gay,106.4,Quincy Acy,106.3
+Sacramento Kings,Willie Cauley-Stein,108.1,Kosta Koufos,108
+San Antonio Spurs,Kawhi Leonard,94.9,Kyle Anderson,97.7
+San Antonio Spurs,LaMarcus Aldridge,97.1,David West,95.2
+San Antonio Spurs,Tim Duncan,93.8,Boris Diaw,96.6
+San Antonio Spurs,Tony Parker,96.8,Patty Mills,96.8
+San Antonio Spurs,Danny Green,95.3,Manu Ginobili,93.9
+Utah Jazz,Rudy Gobert,100,Jeff Withey,97.6
+Utah Jazz,Gordon Hayward,102.8,Trevor Booker,100.2
+Utah Jazz,Derrick Favors,103.3,Trey Lyles,103
+Utah Jazz,Raul Neto,99.7,Trey Burke,102.9
+Utah Jazz,Rodney Hood,102.9,Joe Ingles,101.8

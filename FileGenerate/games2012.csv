@@ -1,0 +1,991 @@
+id	date	home_team	home_team_score	visit_team	visit_team_score
+311225018	2012-12-25	NY Knicks	106	Boston Celtics	104
+311227014	2012-12-27	Miami	115	Boston Celtics	107
+311228003	2012-12-28	New Orleans	97	Boston Celtics	78
+311230002	2012-12-30	Boston Celtics	96	Detroit	85
+320101027	2012-01-01	Washington	86	Boston Celtics	94
+320102002	2012-01-02	Boston Celtics	100	Washington	92
+320104002	2012-01-04	Boston Celtics	89	Brooklyn	70
+320106002	2012-01-06	Boston Celtics	74	Indiana	87
+320111002	2012-01-11	Boston Celtics	85	Dallas	90
+320113002	2012-01-13	Boston Celtics	79	Chicago	88
+320114011	2012-01-14	Indiana	97	Boston Celtics	83
+320116002	2012-01-16	Boston Celtics	88	Oklahoma City	97
+320118002	2012-01-18	Boston Celtics	96	Toronto	73
+320120002	2012-01-20	Boston Celtics	71	Phoenix	79
+320122027	2012-01-22	Washington	94	Boston Celtics	100
+320123002	2012-01-23	Boston Celtics	87	Orlando	56
+320126019	2012-01-26	Orlando	83	Boston Celtics	91
+320127002	2012-01-27	Boston Celtics	94	Indiana	87
+320129002	2012-01-29	Boston Celtics	87	Cleveland	88
+320131005	2012-01-31	Cleveland	90	Boston Celtics	93
+320201002	2012-02-01	Boston Celtics	100	Toronto	64
+320203002	2012-02-03	Boston Celtics	91	NY Knicks	89
+320205002	2012-02-05	Boston Celtics	98	Memphis	80
+320207002	2012-02-07	Boston Celtics	94	Charlotte	84
+320209002	2012-02-09	Boston Celtics	87	Los Angeles	88
+320210028	2012-02-10	Toronto	86	Boston Celtics	74
+320212002	2012-02-12	Boston Celtics	95	Chicago	91
+320215002	2012-02-15	Boston Celtics	88	Detroit	98
+320216004	2012-02-16	Chicago	89	Boston Celtics	80
+320219008	2012-02-19	Detroit	96	Boston Celtics	81
+320220006	2012-02-20	Dallas	89	Boston Celtics	73
+320222025	2012-02-22	Oklahoma City	119	Boston Celtics	104
+320228005	2012-02-28	Cleveland	83	Boston Celtics	86
+320229002	2012-03-02	Boston Celtics	107	Milwaukee	94
+320302002	2012-03-04	Boston Celtics	115	Brooklyn	111
+320304002	2012-03-06	Boston Celtics	97	NY Knicks	92
+320306002	2012-03-07	Boston Celtics	103	Houston	71
+320307020	2012-03-09	Philadelphia	104	Boston Celtics	86
+320309002	2012-03-11	Boston Celtics	97	Portland	94
+320311013	2012-03-12	Los Angeles	85	Boston Celtics	94
+320312012	2012-03-14	LA	103	Boston Celtics	105
+320314009	2012-03-16	Golden State	120	Boston Celtics	95
+320316023	2012-03-17	Sacramento	98	Boston Celtics	91
+320317007	2012-03-19	Denver	76	Boston Celtics	79
+320319001	2012-03-22	Atlanta	91	Boston Celtics	100
+320322015	2012-03-23	Milwaukee	99	Boston Celtics	86
+320323020	2012-03-25	Philadelphia	88	Boston Celtics	76
+320325002	2012-03-26	Boston Celtics	95	Washington	102
+320326030	2012-03-28	Charlotte	94	Boston Celtics	82
+320328002	2012-03-30	Boston Celtics	79	Utah	100
+320330016	2012-04-01	Minnesota	91	Boston Celtics	72
+320401002	2012-04-04	Boston Celtics	86	Miami	87
+320404002	2012-04-05	Boston Celtics	93	San Antonio	86
+320405004	2012-04-07	Chicago	72	Boston Celtics	86
+320407011	2012-04-08	Indiana	103	Boston Celtics	79
+320408002	2012-04-10	Boston Celtics	107	Philadelphia	115
+320410014	2012-04-11	Miami	88	Boston Celtics	86
+320411002	2012-04-13	Boston Celtics	84	Atlanta	79
+320413028	2012-04-14	Toronto	82	Boston Celtics	94
+320414017	2012-04-15	Brooklyn	82	Boston Celtics	94
+320415030	2012-04-17	Charlotte	118	Boston Celtics	110
+320417018	2012-04-18	NY Knicks	102	Boston Celtics	98
+320418002	2012-04-20	Boston Celtics	97	Orlando	92
+320420001	2012-04-24	Atlanta	78	Boston Celtics	66
+320424002	2012-04-26	Boston Celtics	87	Miami	74
+320426002	2012-12-26	Boston Celtics	84	Milwaukee	90
+311226027	2012-12-27	Washington	70	Brooklyn Nets	106
+311227017	2012-12-29	Brooklyn Nets	94	Atlanta	78
+311229019	2012-12-30	Orlando	105	Brooklyn Nets	98
+311230001	2012-01-01	Atlanta	98	Brooklyn Nets	82
+320101005	2012-01-02	Cleveland	94	Brooklyn Nets	108
+320102017	2012-01-04	Brooklyn Nets	89	Indiana	70
+320106028	2012-01-07	Toronto	90	Brooklyn Nets	101
+320107017	2012-01-09	Brooklyn Nets	101	Miami	106
+320109017	2012-01-11	Brooklyn Nets	123	Atlanta	115
+320111007	2012-01-13	Denver	103	Brooklyn Nets	110
+320113021	2012-01-14	Phoenix	107	Brooklyn Nets	94
+320114026	2012-01-16	Utah	101	Brooklyn Nets	91
+320116012	2012-01-18	LA	107	Brooklyn Nets	100
+320118017	2012-01-21	Brooklyn Nets	74	Golden State	84
+320121017	2012-01-22	Brooklyn Nets	97	Oklahoma City	87
+320122017	2012-01-23	Brooklyn Nets	110	Charlotte	95
+320123004	2012-01-25	Chicago	90	Brooklyn Nets	97
+320125020	2012-01-27	Philadelphia	96	Brooklyn Nets	99
+320127005	2012-01-29	Cleveland	73	Brooklyn Nets	94
+320129017	2012-01-31	Brooklyn Nets	106	Toronto	99
+320131011	2012-02-01	Indiana	99	Brooklyn Nets	96
+320201017	2012-02-03	Brooklyn Nets	105	Detroit	108
+320203017	2012-02-04	Brooklyn Nets	99	Minnesota	92
+320204018	2012-02-06	NY Knicks	87	Brooklyn Nets	108
+320206017	2012-02-08	Brooklyn Nets	92	Chicago	99
+320208017	2012-02-10	Brooklyn Nets	109	Detroit	92
+320210008	2012-02-11	Detroit	89	Brooklyn Nets	103
+320211017	2012-02-15	Brooklyn Nets	100	San Antonio	105
+320215017	2012-02-16	Brooklyn Nets	93	Memphis	88
+320216011	2012-02-18	Indiana	85	Brooklyn Nets	97
+320218004	2012-02-19	Chicago	85	Brooklyn Nets	92
+320219017	2012-02-20	Brooklyn Nets	92	Milwaukee	100
+320220018	2012-02-22	NY Knicks	91	Brooklyn Nets	108
+320222017	2012-02-28	Brooklyn Nets	92	Orlando	93
+320228006	2012-03-02	Dallas	107	Brooklyn Nets	94
+320304030	2012-03-06	Charlotte	108	Brooklyn Nets	78
+320306014	2012-03-07	Miami	101	Brooklyn Nets	100
+320307017	2012-03-09	Brooklyn Nets	74	LA	83
+320309030	2012-03-10	Charlotte	106	Brooklyn Nets	112
+320310017	2012-03-12	Brooklyn Nets	99	Houston	105
+320312017	2012-03-14	Brooklyn Nets	98	Milwaukee	84
+320314017	2012-03-16	Brooklyn Nets	86	Toronto	70
+320316019	2012-03-17	Orlando	94	Brooklyn Nets	102
+320317017	2012-03-19	Brooklyn Nets	100	New Orleans	105
+320319017	2012-03-21	Brooklyn Nets	89	Cleveland	108
+320321017	2012-03-23	Brooklyn Nets	93	Washington	84
+320323001	2012-03-24	Atlanta	102	Brooklyn Nets	89
+320324017	2012-03-26	Brooklyn Nets	84	Charlotte	105
+320326017	2012-03-28	Brooklyn Nets	100	Utah	84
+320328017	2012-03-30	Brooklyn Nets	100	Indiana	102
+320330009	2012-03-31	Golden State	99	Brooklyn Nets	111
+320331023	2012-04-03	Sacramento	91	Brooklyn Nets	87
+320403013	2012-04-04	Los Angeles	101	Brooklyn Nets	88
+320404022	2012-04-06	Portland	110	Brooklyn Nets	98
+320406017	2012-04-08	Brooklyn Nets	122	Washington	117
+320408017	2012-04-10	Brooklyn Nets	88	Cleveland	107
+320410017	2012-04-13	Brooklyn Nets	89	Philadelphia	95
+320413020	2012-04-14	Philadelphia	82	Brooklyn Nets	94
+320416017	2012-04-18	Brooklyn Nets	95	Miami	104
+320418017	2012-04-21	Brooklyn Nets	106	NY Knicks	95
+320421015	2012-04-23	Milwaukee	87	Brooklyn Nets	105
+320423017	2012-04-26	Brooklyn Nets	98	Philadelphia	67
+320426028	2012-12-25	Toronto	106	Brooklyn Nets	104
+311228009	2012-12-29	Golden State	99	New York Knicks	82
+311229013	2012-12-31	Los Angeles	92	New York Knicks	114
+311231023	2012-01-02	Sacramento	85	New York Knicks	90
+320102018	2012-01-04	New York Knicks	110	Toronto	118
+320104018	2012-01-06	New York Knicks	96	Charlotte	99
+320106027	2012-01-07	Washington	80	New York Knicks	103
+320107008	2012-01-09	Detroit	91	New York Knicks	87
+320109018	2012-01-11	New York Knicks	85	Charlotte	79
+320111018	2012-01-12	New York Knicks	94	Philadelphia	83
+320112029	2012-01-14	Memphis	104	New York Knicks	92
+320114025	2012-01-16	Oklahoma City	93	New York Knicks	102
+320116018	2012-01-18	New York Knicks	88	Orlando	91
+320118018	2012-01-20	New York Knicks	86	Phoenix	100
+320120018	2012-01-21	New York Knicks	114	Milwaukee	119
+320121018	2012-01-24	New York Knicks	78	Denver	111
+320124030	2012-01-25	Charlotte	91	New York Knicks	81
+320125005	2012-01-27	Cleveland	99	New York Knicks	89
+320127014	2012-01-28	Miami	97	New York Knicks	84
+320128010	2012-01-31	Houston	113	New York Knicks	86
+320131018	2012-02-02	New York Knicks	102	Detroit	105
+320202018	2012-02-03	New York Knicks	91	Chicago	89
+320206018	2012-02-08	New York Knicks	93	Utah	107
+320208027	2012-02-10	Washington	92	New York Knicks	85
+320210018	2012-02-11	New York Knicks	98	Los Angeles	100
+320211016	2012-02-14	Minnesota	87	New York Knicks	90
+320214028	2012-02-15	Toronto	100	New York Knicks	85
+320215018	2012-02-17	New York Knicks	85	Sacramento	89
+320217018	2012-02-19	New York Knicks	104	New Orleans	97
+320219018	2012-02-20	New York Knicks	92	Dallas	100
+320222018	2012-02-23	New York Knicks	102	Atlanta	88
+320223014	2012-03-04	Miami	115	New York Knicks	111
+320229018	2012-03-06	New York Knicks	95	Cleveland	85
+320306006	2012-03-09	Dallas	119	New York Knicks	114
+320307024	2012-03-11	San Antonio	94	New York Knicks	106
+320309015	2012-03-12	Milwaukee	104	New York Knicks	99
+320311018	2012-03-14	New York Knicks	121	Philadelphia	79
+320312004	2012-03-16	Chicago	115	New York Knicks	100
+320314018	2012-03-17	New York Knicks	88	Portland	102
+320316018	2012-03-20	New York Knicks	106	Indiana	87
+320317011	2012-03-21	Indiana	79	New York Knicks	82
+320320018	2012-03-23	New York Knicks	96	Toronto	79
+320321020	2012-03-24	Philadelphia	101	New York Knicks	79
+320323028	2012-03-26	Toronto	89	New York Knicks	80
+320324018	2012-03-28	New York Knicks	108	Detroit	86
+320326018	2012-03-30	New York Knicks	100	Milwaukee	90
+320328018	2012-03-31	New York Knicks	91	Orlando	75
+320330001	2012-04-03	Atlanta	112	New York Knicks	104
+320331018	2012-04-05	New York Knicks	80	Cleveland	96
+320403011	2012-04-08	Indiana	100	New York Knicks	99
+320405019	2012-04-10	Orlando	98	New York Knicks	86
+320408018	2012-04-11	New York Knicks	107	Chicago	111
+320410004	2012-04-13	Chicago	103	New York Knicks	65
+320411015	2012-04-15	Milwaukee	85	New York Knicks	93
+320413018	2012-04-17	New York Knicks	118	Washington	110
+320415018	2012-04-18	New York Knicks	95	Miami	104
+320420005	2012-04-25	Cleveland	99	New York Knicks	93
+320422001	2012-04-26	Atlanta	84	New York Knicks	104
+320425018	2012-12-26	New York Knicks	107	LA	103
+320426030	2012-12-28	Charlotte	83	New York Knicks	103
+311226022	2012-12-30	Portland	102	Philadelphia 76ers	99
+311228021	2012-12-31	Phoenix	79	Philadelphia 76ers	107
+311230026	2012-01-04	Utah	93	Philadelphia 76ers	101
+311231009	2012-01-06	Golden State	96	Philadelphia 76ers	73
+320104003	2012-01-07	New Orleans	97	Philadelphia 76ers	62
+320106020	2012-01-09	Philadelphia 76ers	96	Detroit	86
+320107020	2012-01-10	Philadelphia 76ers	112	Toronto	85
+320109020	2012-01-11	Philadelphia 76ers	85	Indiana	79
+320110020	2012-01-13	Philadelphia 76ers	120	Sacramento	89
+320113020	2012-01-16	Philadelphia 76ers	94	Washington	82
+320114027	2012-01-18	Washington	104	Philadelphia 76ers	108
+320116020	2012-01-20	Philadelphia 76ers	90	Milwaukee	76
+320118020	2012-01-21	Philadelphia 76ers	113	Denver	92
+320120020	2012-01-23	Philadelphia 76ers	103	Atlanta	83
+320121014	2012-01-25	Miami	90	Philadelphia 76ers	97
+320123020	2012-01-27	Philadelphia 76ers	89	Washington	72
+320127020	2012-01-30	Philadelphia 76ers	74	Charlotte	69
+320128020	2012-02-01	Philadelphia 76ers	98	Detroit	82
+320130020	2012-02-03	Philadelphia 76ers	79	Orlando	99
+320201020	2012-02-04	Philadelphia 76ers	87	Chicago	98
+320203020	2012-02-06	Philadelphia 76ers	95	Miami	90
+320204001	2012-02-08	Atlanta	90	Philadelphia 76ers	100
+320206020	2012-02-10	Philadelphia 76ers	77	Los Angeles	78
+320208020	2012-02-11	Philadelphia 76ers	84	San Antonio	99
+320210020	2012-02-13	Philadelphia 76ers	89	LA	98
+320211005	2012-02-15	Cleveland	103	Philadelphia 76ers	87
+320213030	2012-02-17	Charlotte	75	Philadelphia 76ers	82
+320215019	2012-02-19	Orlando	92	Philadelphia 76ers	91
+320217020	2012-02-21	Philadelphia 76ers	89	Dallas	76
+320219016	2012-02-22	Minnesota	93	Philadelphia 76ers	87
+320221029	2012-02-28	Memphis	68	Philadelphia 76ers	97
+320222010	2012-03-02	Houston	105	Philadelphia 76ers	83
+320228008	2012-03-04	Detroit	91	Philadelphia 76ers	96
+320229020	2012-03-05	Philadelphia 76ers	97	Oklahoma City	93
+320302020	2012-03-07	Philadelphia 76ers	103	Golden State	71
+320304020	2012-03-09	Philadelphia 76ers	104	Chicago	91
+320305015	2012-03-11	Milwaukee	94	Philadelphia 76ers	106
+320309020	2012-03-16	Philadelphia 76ers	78	Utah	84
+320314011	2012-03-19	Indiana	80	Philadelphia 76ers	105
+320316020	2012-03-21	Philadelphia 76ers	79	Miami	82
+320317004	2012-03-23	Chicago	99	Philadelphia 76ers	86
+320319030	2012-03-25	Charlotte	93	Philadelphia 76ers	76
+320325024	2012-03-31	San Antonio	95	Philadelphia 76ers	90
+320327020	2012-04-03	Philadelphia 76ers	99	Cleveland	93
+320330027	2012-04-04	Washington	78	Philadelphia 76ers	99
+320331020	2012-04-07	Philadelphia 76ers	82	Atlanta	88
+320403014	2012-04-08	Miami	103	Philadelphia 76ers	79
+320404020	2012-04-10	Philadelphia 76ers	88	Toronto	107
+320407020	2012-04-11	Philadelphia 76ers	75	Orlando	93
+320411028	2012-04-17	Toronto	97	Philadelphia 76ers	102
+320416019	2012-04-21	Orlando	106	Philadelphia 76ers	109
+320417020	2012-04-23	Philadelphia 76ers	87	Indiana	105
+320418005	2012-04-25	Cleveland	85	Philadelphia 76ers	90
+320421011	2012-04-26	Indiana	108	Philadelphia 76ers	86
+320425015	2012-12-28	Milwaukee	85	Philadelphia 76ers	90
+320426008	2012-12-30	Detroit	99	Philadelphia 76ers	86
+311226005	2012-01-01	Cleveland	102	Toronto Raptors	96
+311228028	2012-01-02	Toronto Raptors	85	Indiana	90
+311230006	2012-01-04	Dallas	92	Toronto Raptors	77
+320101019	2012-01-06	Orlando	85	Toronto Raptors	97
+320104028	2012-01-09	Toronto Raptors	97	Cleveland	87
+320109028	2012-01-13	Toronto Raptors	90	Minnesota	95
+320110027	2012-01-14	Washington	77	Toronto Raptors	64
+320111028	2012-01-16	Toronto Raptors	93	Sacramento	84
+320113028	2012-01-18	Toronto Raptors	96	Indiana	73
+320114004	2012-01-20	Chicago	84	Toronto Raptors	94
+320116001	2012-01-22	Atlanta	103	Toronto Raptors	91
+320120028	2012-01-25	Toronto Raptors	106	Portland	111
+320122012	2012-01-27	LA	96	Toronto Raptors	81
+320124021	2012-01-29	Phoenix	73	Toronto Raptors	94
+320125026	2012-01-31	Utah	77	Toronto Raptors	100
+320127007	2012-02-01	Denver	100	Toronto Raptors	64
+320131028	2012-02-05	Toronto Raptors	95	Atlanta	89
+320203028	2012-02-08	Toronto Raptors	99	Washington	105
+320205014	2012-02-10	Miami	86	Toronto Raptors	74
+320206027	2012-02-12	Washington	92	Toronto Raptors	94
+320208028	2012-02-14	Toronto Raptors	87	Milwaukee	90
+320212028	2012-02-17	Toronto Raptors	91	Los Angeles	98
+320215028	2012-02-28	Toronto Raptors	88	San Antonio	85
+320217028	2012-03-02	Toronto Raptors	99	Charlotte	102
+320222028	2012-03-04	Toronto Raptors	83	Detroit	75
+320228010	2012-03-05	Houston	88	Toronto Raptors	92
+320229003	2012-03-07	New Orleans	116	Toronto Raptors	98
+320302028	2012-03-10	Toronto Raptors	105	Memphis	86
+320304028	2012-03-11	Toronto Raptors	99	Golden State	105
+320305028	2012-03-13	Toronto Raptors	88	Orlando	96
+320307028	2012-03-14	Toronto Raptors	98	Houston	84
+320310008	2012-03-16	Detroit	110	Toronto Raptors	114
+320311028	2012-03-17	Toronto Raptors	107	Milwaukee	103
+320313005	2012-03-20	Cleveland	106	Toronto Raptors	87
+320316029	2012-03-23	Memphis	96	Toronto Raptors	79
+320317030	2012-03-24	Charlotte	102	Toronto Raptors	101
+320321028	2012-03-28	Toronto Raptors	105	Chicago	96
+320324004	2012-04-01	Chicago	99	Toronto Raptors	92
+320326028	2012-04-03	Toronto Raptors	92	Orlando	87
+320328028	2012-04-04	Toronto Raptors	78	Denver	99
+320330028	2012-04-06	Toronto Raptors	80	Miami	84
+320401028	2012-04-08	Toronto Raptors	91	Washington	75
+320403028	2012-04-09	Toronto Raptors	103	Charlotte	98
+320406028	2012-04-13	Toronto Raptors	84	Cleveland	79
+320408025	2012-04-15	Oklahoma City	86	Toronto Raptors	102
+320409011	2012-04-16	Indiana	87	Toronto Raptors	109
+320415001	2012-04-23	Atlanta	92	Toronto Raptors	86
+320416028	2012-04-26	Toronto Raptors	98	Atlanta	67
+320418014	2012-12-25	Miami	86	Toronto Raptors	105
+320422008	2012-12-26	Detroit	99	Toronto Raptors	91
+320423015	2012-12-28	Milwaukee	92	Toronto Raptors	78
+311225009	2012-01-02	Golden State Warriors	102	LA	91
+311226009	2012-01-04	Golden State Warriors	101	Chicago	95
+320102021	2012-01-10	Phoenix	111	Golden State Warriors	106
+320104024	2012-01-12	San Antonio	109	Golden State Warriors	117
+320106013	2012-01-14	Los Angeles	112	Golden State Warriors	100
+320107009	2012-01-15	Golden State Warriors	91	Utah	99
+320110009	2012-01-17	Golden State Warriors	95	Miami	105
+320112009	2012-01-18	Golden State Warriors	107	Orlando	100
+320114030	2012-01-20	Charlotte	91	Golden State Warriors	94
+320115008	2012-01-23	Detroit	90	Golden State Warriors	91
+320117005	2012-01-25	Cleveland	101	Golden State Warriors	93
+320120009	2012-01-31	Golden State Warriors	93	Indiana	90
+320123009	2012-02-02	Golden State Warriors	119	Memphis	101
+320125009	2012-02-04	Golden State Warriors	114	Portland	106
+320127009	2012-02-07	Golden State Warriors	116	Oklahoma City	119
+320131009	2012-02-09	Golden State Warriors	101	Sacramento	109
+320202009	2012-02-12	Golden State Warriors	106	Utah	97
+320204023	2012-02-13	Sacramento	102	Golden State Warriors	96
+320207009	2012-02-15	Golden State Warriors	91	Oklahoma City	93
+320209007	2012-02-17	Denver	110	Golden State Warriors	87
+320212009	2012-02-18	Golden State Warriors	104	Houston	103
+320213009	2012-02-20	Golden State Warriors	104	Phoenix	97
+320215009	2012-02-22	Golden State Warriors	104	Portland	106
+320217025	2012-02-28	Oklahoma City	102	Golden State Warriors	78
+320218029	2012-03-02	Memphis	105	Golden State Warriors	83
+320220009	2012-03-04	Golden State Warriors	83	LA	75
+320222021	2012-03-05	Phoenix	100	Golden State Warriors	120
+320228011	2012-03-07	Indiana	92	Golden State Warriors	110
+320229001	2012-03-10	Atlanta	111	Golden State Warriors	87
+320305027	2012-03-14	Washington	103	Golden State Warriors	105
+320307009	2012-03-16	Golden State Warriors	98	Memphis	120
+320310009	2012-03-17	Golden State Warriors	99	Dallas	92
+320311012	2012-03-19	LA	93	Golden State Warriors	97
+320313023	2012-03-21	Sacramento	92	Golden State Warriors	101
+320316009	2012-03-24	Golden State Warriors	111	Milwaukee	108
+320317026	2012-03-25	Utah	90	Golden State Warriors	87
+320319009	2012-03-27	Golden State Warriors	101	Minnesota	104
+320321003	2012-03-28	New Orleans	87	Golden State Warriors	102
+320322010	2012-03-30	Houston	100	Golden State Warriors	102
+320324009	2012-04-01	Golden State Warriors	120	Sacramento	112
+320325022	2012-04-03	Portland	98	Golden State Warriors	94
+320327009	2012-04-04	Golden State Warriors	94	Los Angeles	97
+320328009	2012-04-06	Golden State Warriors	104	New Orleans	98
+320401013	2012-04-09	Los Angeles	123	Golden State Warriors	84
+320403029	2012-04-11	Memphis	118	Golden State Warriors	110
+320404016	2012-04-12	Minnesota	103	Golden State Warriors	112
+320406026	2012-04-14	Utah	112	Golden State Warriors	104
+320407009	2012-04-16	Golden State Warriors	99	Denver	120
+320409007	2012-04-18	Denver	87	Golden State Warriors	99
+320411022	2012-04-20	Portland	104	Golden State Warriors	94
+320412009	2012-04-21	Golden State Warriors	99	Dallas	96
+320414012	2012-04-22	LA	88	Golden State Warriors	93
+320416009	2012-04-24	Golden State Warriors	81	San Antonio	83
+320418009	2012-04-26	Golden State Warriors	101	Los Angeles	107
+320420006	2012-12-25	Dallas	86	Golden State Warriors	105
+320421010	2012-12-28	Houston	115	Golden State Warriors	90
+320422016	2012-12-30	Minnesota	101	Golden State Warriors	114
+320424009	2012-01-01	Golden State Warriors	93	New Orleans	88
+320426009	2012-01-04	Golden State Warriors	117	San Antonio	89
+311228024	2012-01-10	San Antonio	105	LA Clippers	97
+311230012	2012-01-11	LA Clippers	95	Chicago	89
+320101012	2012-01-14	LA Clippers	102	Portland	94
+320104012	2012-01-16	LA Clippers	101	Houston	91
+320107012	2012-01-17	LA Clippers	108	Milwaukee	79
+320110022	2012-01-18	Portland	91	LA Clippers	89
+320111012	2012-01-20	LA Clippers	98	Miami	101
+320114012	2012-01-22	LA Clippers	103	Los Angeles	91
+320117026	2012-01-26	Utah	98	LA Clippers	91
+320118012	2012-01-29	LA Clippers	105	Dallas	109
+320120012	2012-01-30	LA Clippers	112	Minnesota	100
+320125013	2012-02-02	Los Angeles	91	LA Clippers	112
+320126012	2012-02-04	LA Clippers	81	Memphis	107
+320129007	2012-02-06	Denver	102	LA Clippers	107
+320130012	2012-02-08	LA Clippers	99	Oklahoma City	92
+320201026	2012-02-10	Utah	77	LA Clippers	78
+320202012	2012-02-11	LA Clippers	86	Denver	111
+320204027	2012-02-13	Washington	96	LA Clippers	92
+320206019	2012-02-15	Orlando	102	LA Clippers	84
+320208005	2012-02-16	Cleveland	71	LA Clippers	74
+320211030	2012-02-20	Charlotte	104	LA Clippers	97
+320213006	2012-02-22	Dallas	103	LA Clippers	95
+320215012	2012-02-28	LA Clippers	97	Washington	109
+320216022	2012-03-01	Portland	100	LA Clippers	108
+320218012	2012-03-02	LA Clippers	81	San Antonio	78
+320222012	2012-03-05	LA Clippers	95	Denver	94
+320228012	2012-03-07	LA Clippers	101	Minnesota	100
+320301023	2012-03-09	Sacramento	108	LA Clippers	120
+320302021	2012-03-11	Phoenix	93	LA Clippers	97
+320304010	2012-03-12	Houston	85	LA Clippers	94
+320305016	2012-03-14	Minnesota	96	LA Clippers	82
+320309024	2012-03-17	San Antonio	95	LA Clippers	91
+320314012	2012-03-21	LA Clippers	114	Atlanta	91
+320315012	2012-03-22	LA Clippers	97	Phoenix	90
+320317012	2012-03-24	LA Clippers	101	Houston	85
+320318012	2012-03-26	LA Clippers	97	Detroit	85
+320320011	2012-03-28	Indiana	103	LA Clippers	86
+320321025	2012-03-30	Oklahoma City	98	LA Clippers	97
+320322003	2012-03-31	New Orleans	105	LA Clippers	96
+320324012	2012-04-02	LA Clippers	75	Memphis	94
+320326012	2012-04-04	LA Clippers	108	New Orleans	113
+320328012	2012-04-05	LA Clippers	85	Phoenix	93
+320330012	2012-04-07	LA Clippers	109	Portland	94
+320331012	2012-04-09	LA Clippers	94	Utah	85
+320402006	2012-04-11	Dallas	98	LA Clippers	100
+320404012	2012-04-12	LA Clippers	82	Los Angeles	95
+320405023	2012-04-14	Sacramento	112	LA Clippers	104
+320407012	2012-04-16	LA Clippers	92	Sacramento	77
+320409029	2012-04-18	Memphis	98	LA Clippers	104
+320411025	2012-04-19	Oklahoma City	93	LA Clippers	90
+320412016	2012-04-22	Minnesota	107	LA Clippers	98
+320416012	2012-04-25	LA Clippers	99	Oklahoma City	93
+320418007	2012-12-25	Denver	87	LA Clippers	88
+320419021	2012-12-26	Phoenix	100	LA Clippers	91
+320422012	2012-12-27	LA Clippers	96	New Orleans	71
+320424001	2012-12-29	Atlanta	99	LA Clippers	82
+311225013	2012-01-01	Los Angeles Lakers	99	Chicago	90
+311226023	2012-01-03	Sacramento	108	Los Angeles Lakers	99
+311227013	2012-01-05	Los Angeles Lakers	107	Utah	96
+311231013	2012-01-08	Los Angeles Lakers	90	Denver	82
+320101007	2012-01-10	Denver	99	Los Angeles Lakers	83
+320103013	2012-01-11	Los Angeles Lakers	87	Houston	90
+320105022	2012-01-13	Portland	97	Los Angeles Lakers	92
+320108013	2012-01-16	Los Angeles Lakers	73	Memphis	70
+320110013	2012-01-19	Los Angeles Lakers	98	Phoenix	87
+320111026	2012-01-20	Utah	92	Los Angeles Lakers	80
+320113013	2012-01-22	Los Angeles Lakers	96	Cleveland	98
+320116013	2012-01-28	Los Angeles Lakers	100	Dallas	89
+320119014	2012-01-29	Miami	101	Los Angeles Lakers	106
+320120019	2012-01-31	Orlando	106	Los Angeles Lakers	73
+320122013	2012-02-03	Los Angeles Lakers	89	Indiana	93
+320128015	2012-02-06	Milwaukee	95	Los Angeles Lakers	90
+320129016	2012-02-09	Minnesota	87	Los Angeles Lakers	88
+320131013	2012-02-10	Los Angeles Lakers	92	Charlotte	85
+320203007	2012-02-12	Denver	92	Los Angeles Lakers	94
+320204026	2012-02-14	Utah	86	Los Angeles Lakers	78
+320214013	2012-02-23	Los Angeles Lakers	100	Atlanta	85
+320217013	2012-03-02	Los Angeles Lakers	115	Phoenix	107
+320219021	2012-03-04	Phoenix	93	Los Angeles Lakers	83
+320220013	2012-03-06	Los Angeles Lakers	88	Portland	85
+320222006	2012-03-07	Dallas	106	Los Angeles Lakers	101
+320223025	2012-03-09	Oklahoma City	102	Los Angeles Lakers	105
+320229013	2012-03-11	Los Angeles Lakers	97	Minnesota	94
+320302013	2012-03-13	Los Angeles Lakers	111	Sacramento	116
+320304013	2012-03-14	Los Angeles Lakers	101	Miami	107
+320306008	2012-03-16	Detroit	97	Los Angeles Lakers	92
+320307027	2012-03-18	Washington	99	Los Angeles Lakers	103
+320309016	2012-03-20	Minnesota	107	Los Angeles Lakers	104
+320313029	2012-03-23	Memphis	103	Los Angeles Lakers	96
+320314003	2012-03-25	New Orleans	96	Los Angeles Lakers	102
+320316013	2012-03-27	Los Angeles Lakers	101	Minnesota	104
+320318013	2012-03-29	Los Angeles Lakers	93	Utah	102
+320320010	2012-03-31	Houston	88	Los Angeles Lakers	85
+320321006	2012-04-01	Dallas	120	Los Angeles Lakers	112
+320323013	2012-04-03	Los Angeles Lakers	91	Portland	87
+320325013	2012-04-04	Los Angeles Lakers	108	Memphis	113
+320329013	2012-04-07	Los Angeles Lakers	125	Oklahoma City	105
+320331013	2012-04-09	Los Angeles Lakers	91	New Orleans	93
+320406013	2012-04-17	Los Angeles Lakers	91	Houston	112
+320407021	2012-04-18	Phoenix	87	Los Angeles Lakers	99
+320409003	2012-04-20	New Orleans	121	Los Angeles Lakers	97
+320411024	2012-04-22	San Antonio	114	Los Angeles Lakers	106
+320413013	2012-04-26	Los Angeles Lakers	113	Denver	96
+320415013	2012-12-26	Los Angeles Lakers	84	Dallas	85
+320417013	2012-12-28	Los Angeles Lakers	83	San Antonio	103
+320420024	2012-12-31	San Antonio	107	Los Angeles Lakers	97
+320422013	2012-01-02	Los Angeles Lakers	102	Oklahoma City	91
+320426023	2012-01-04	Sacramento	98	Los Angeles Lakers	89
+311226021	2012-01-06	Phoenix Suns	102	New Orleans	77
+311230003	2012-01-10	New Orleans	99	Phoenix Suns	83
+311231025	2012-01-12	Oklahoma City	90	Phoenix Suns	101
+320104006	2012-01-15	Dallas	102	Phoenix Suns	91
+320106021	2012-01-17	Phoenix Suns	118	Portland	97
+320108021	2012-01-18	Phoenix Suns	88	Milwaukee	91
+320112021	2012-01-23	Phoenix Suns	93	Cleveland	87
+320115024	2012-01-27	San Antonio	109	Phoenix Suns	71
+320117004	2012-01-28	Chicago	86	Phoenix Suns	84
+320123006	2012-02-03	Dallas	99	Phoenix Suns	81
+320127022	2012-02-06	Portland	90	Phoenix Suns	99
+320128021	2012-02-07	Phoenix Suns	105	Memphis	107
+320130021	2012-02-09	Phoenix Suns	89	Dallas	96
+320201003	2012-02-11	New Orleans	84	Phoenix Suns	98
+320203010	2012-02-13	Houston	102	Phoenix Suns	96
+320204021	2012-02-14	Phoenix Suns	109	Charlotte	92
+320206001	2012-02-15	Atlanta	99	Phoenix Suns	101
+320207015	2012-02-17	Milwaukee	111	Phoenix Suns	99
+320209021	2012-02-19	Phoenix Suns	102	Houston	90
+320211023	2012-02-20	Sacramento	104	Phoenix Suns	88
+320214007	2012-03-01	Denver	104	Phoenix Suns	95
+320215021	2012-03-02	Phoenix Suns	81	Atlanta	78
+320220021	2012-03-08	Phoenix Suns	96	Washington	94
+320301021	2012-03-12	Phoenix Suns	124	Minnesota	127
+320304021	2012-03-15	Phoenix Suns	87	Sacramento	91
+320307025	2012-03-16	Oklahoma City	109	Phoenix Suns	101
+320308021	2012-03-18	Phoenix Suns	99	Dallas	86
+320310021	2012-03-20	Phoenix Suns	99	Memphis	95
+320312021	2012-03-21	Phoenix Suns	103	Minnesota	93
+320314021	2012-03-23	Phoenix Suns	111	Utah	113
+320316021	2012-03-27	Phoenix Suns	100	Detroit	107
+320318021	2012-03-28	Phoenix Suns	103	Houston	86
+320320014	2012-04-01	Miami	92	Phoenix Suns	75
+320321019	2012-04-03	Orlando	100	Phoenix Suns	109
+320323011	2012-04-04	Indiana	105	Phoenix Suns	107
+320325005	2012-04-06	Cleveland	105	Phoenix Suns	99
+320327021	2012-04-07	Phoenix Suns	125	San Antonio	105
+320401021	2012-04-11	Phoenix Suns	104	New Orleans	93
+320403023	2012-04-13	Sacramento	105	Phoenix Suns	112
+320404026	2012-04-14	Utah	105	Phoenix Suns	91
+320406007	2012-04-16	Denver	125	Phoenix Suns	107
+320409016	2012-04-19	Minnesota	93	Phoenix Suns	90
+320411029	2012-04-21	Memphis	107	Phoenix Suns	118
+320413010	2012-04-24	Houston	100	Phoenix Suns	88
+320414024	2012-04-25	San Antonio	106	Phoenix Suns	110
+320416021	2012-12-26	Phoenix Suns	100	Portland	91
+320418021	2012-12-27	Phoenix Suns	101	Oklahoma City	79
+320421021	2012-12-31	Phoenix Suns	92	Denver	114
+320424026	2012-01-01	Utah	96	Phoenix Suns	80
+320425021	2012-01-03	Phoenix Suns	113	San Antonio	96
+311227022	2012-01-05	Portland	103	Sacramento Kings	100
+311229023	2012-01-08	Sacramento Kings	97	Chicago	104
+320101023	2012-01-11	Sacramento Kings	91	New Orleans	98
+320103029	2012-01-13	Memphis	103	Sacramento Kings	89
+320104007	2012-01-14	Denver	99	Sacramento Kings	60
+320105023	2012-01-16	Sacramento Kings	99	Milwaukee	86
+320108023	2012-01-18	Sacramento Kings	92	Orlando	88
+320113010	2012-01-23	Houston	101	Sacramento Kings	89
+320114006	2012-01-25	Dallas	93	Sacramento Kings	122
+320116016	2012-01-28	Minnesota	96	Sacramento Kings	93
+320118023	2012-01-31	Sacramento Kings	93	Indiana	90
+320120024	2012-02-02	San Antonio	95	Sacramento Kings	92
+320121029	2012-02-04	Memphis	114	Sacramento Kings	106
+320123022	2012-02-06	Portland	92	Sacramento Kings	100
+320125023	2012-02-07	Sacramento Kings	86	Denver	84
+320128026	2012-02-09	Utah	106	Sacramento Kings	101
+320202023	2012-02-14	Sacramento Kings	121	Portland	115
+320206003	2012-02-17	New Orleans	114	Sacramento Kings	108
+320207016	2012-02-19	Minnesota	93	Sacramento Kings	92
+320209023	2012-02-21	Sacramento Kings	120	Oklahoma City	108
+320214004	2012-02-28	Chicago	103	Sacramento Kings	96
+320217008	2012-03-02	Detroit	115	Sacramento Kings	107
+320219005	2012-03-04	Cleveland	96	Sacramento Kings	88
+320221014	2012-03-05	Miami	119	Sacramento Kings	116
+320222027	2012-03-07	Washington	99	Sacramento Kings	98
+320228023	2012-03-09	Sacramento Kings	110	Utah	97
+320305007	2012-03-16	Denver	120	Sacramento Kings	95
+320307023	2012-03-18	Sacramento Kings	115	New Orleans	99
+320309023	2012-03-20	Sacramento Kings	119	Dallas	110
+320311023	2012-03-22	Sacramento Kings	102	Atlanta	103
+320314023	2012-03-26	Sacramento Kings	113	Detroit	106
+320318023	2012-03-30	Sacramento Kings	103	Minnesota	104
+320320023	2012-03-31	Sacramento Kings	99	Memphis	111
+320322023	2012-04-02	Sacramento Kings	116	Utah	108
+320326010	2012-04-05	Houston	85	Sacramento Kings	93
+320328023	2012-04-07	Sacramento Kings	109	San Antonio	94
+320330026	2012-04-08	Utah	87	Sacramento Kings	104
+320402023	2012-04-11	Sacramento Kings	105	Minnesota	96
+320408023	2012-04-20	Sacramento Kings	92	Houston	103
+320410006	2012-04-22	Dallas	88	Sacramento Kings	114
+320411003	2012-04-24	New Orleans	118	Sacramento Kings	110
+320413025	2012-04-26	Oklahoma City	113	Sacramento Kings	96
+320415023	2012-12-25	Sacramento Kings	87	Portland	88
+320418023	2012-12-26	Sacramento Kings	99	San Antonio	91
+320420023	2012-12-29	Sacramento Kings	98	Oklahoma City	108
+320422030	2012-12-30	Charlotte	101	Sacramento Kings	114
+320424025	2012-01-01	Oklahoma City	104	Sacramento Kings	64
+320101004	2012-01-10	Chicago Bulls	100	Memphis	111
+320103004	2012-01-11	Chicago Bulls	78	Atlanta	64
+320104008	2012-01-13	Detroit	79	Chicago Bulls	88
+320106019	2012-01-14	Orlando	77	Chicago Bulls	64
+320107001	2012-01-16	Atlanta	102	Chicago Bulls	86
+320109004	2012-01-17	Chicago Bulls	118	Detroit	97
+320110016	2012-01-20	Minnesota	75	Chicago Bulls	114
+320111004	2012-01-21	Chicago Bulls	95	Washington	89
+320116029	2012-01-27	Memphis	107	Chicago Bulls	100
+320120005	2012-01-30	Cleveland	88	Chicago Bulls	98
+320121004	2012-02-01	Chicago Bulls	98	Charlotte	82
+320125004	2012-02-04	Chicago Bulls	90	Indiana	113
+320127004	2012-02-06	Chicago Bulls	87	Milwaukee	108
+320129014	2012-02-08	Miami	67	Chicago Bulls	90
+320130027	2012-02-10	Washington	64	Chicago Bulls	95
+320204015	2012-02-16	Milwaukee	89	Chicago Bulls	80
+320208003	2012-02-20	New Orleans	90	Chicago Bulls	79
+320210030	2012-02-22	Charlotte	110	Chicago Bulls	91
+320220004	2012-03-07	Chicago Bulls	104	Atlanta	106
+320222004	2012-03-08	Chicago Bulls	94	Milwaukee	99
+320228004	2012-03-10	Chicago Bulls	111	New Orleans	97
+320229024	2012-03-12	San Antonio	104	Chicago Bulls	99
+320302005	2012-03-14	Cleveland	106	Chicago Bulls	102
+320305004	2012-03-17	Chicago Bulls	89	Indiana	80
+320307015	2012-03-19	Milwaukee	59	Chicago Bulls	85
+320308004	2012-03-21	Chicago Bulls	82	Orlando	94
+320310004	2012-03-24	Chicago Bulls	102	Utah	101
+320314004	2012-03-28	Chicago Bulls	77	Miami	98
+320316004	2012-03-30	Chicago Bulls	83	Portland	71
+320319019	2012-04-02	Orlando	93	Chicago Bulls	99
+320326004	2012-04-10	Chicago Bulls	98	Denver	86
+320328001	2012-04-12	Atlanta	96	Chicago Bulls	86
+320330004	2012-04-15	Chicago Bulls	94	Detroit	100
+320401025	2012-04-16	Oklahoma City	84	Chicago Bulls	87
+320402004	2012-04-18	Chicago Bulls	68	Houston	100
+320412004	2012-04-26	Chicago Bulls	107	Miami	75
+320415008	2012-12-26	Detroit	96	Chicago Bulls	104
+320416004	2012-12-28	Chicago Bulls	89	Washington	105
+320418030	2012-12-30	Charlotte	98	Chicago Bulls	91
+320419014	2012-01-01	Miami	98	Chicago Bulls	82
+320421004	2012-01-03	Chicago Bulls	115	Dallas	101
+320425011	2012-01-04	Indiana	92	Chicago Bulls	77
+320426004	2012-01-06	Chicago Bulls	87	Cleveland	98
+311228008	2012-01-10	Detroit	113	Cleveland Cavaliers	105
+311230011	2012-01-12	Indiana	90	Cleveland Cavaliers	101
+320103005	2012-01-16	Cleveland Cavaliers	94	Charlotte	102
+320106016	2012-01-20	Minnesota	75	Cleveland Cavaliers	114
+320108022	2012-01-21	Portland	121	Cleveland Cavaliers	94
+320110026	2012-01-24	Utah	92	Cleveland Cavaliers	85
+320116030	2012-01-29	Charlotte	87	Cleveland Cavaliers	88
+320121001	2012-02-04	Atlanta	91	Cleveland Cavaliers	88
+320124014	2012-02-07	Miami	107	Cleveland Cavaliers	91
+320203019	2012-02-17	Orlando	87	Cleveland Cavaliers	111
+320204005	2012-02-19	Cleveland Cavaliers	93	Dallas	92
+320207014	2012-02-21	Miami	101	Cleveland Cavaliers	100
+320210005	2012-02-28	Cleveland Cavaliers	83	Milwaukee	86
+320215005	2012-03-03	Cleveland Cavaliers	101	Indiana	98
+320217005	2012-03-05	Cleveland Cavaliers	100	Miami	109
+320221005	2012-03-09	Cleveland Cavaliers	90	Detroit	96
+320222005	2012-03-11	Cleveland Cavaliers	118	New Orleans	107
+320303027	2012-03-19	Washington	100	Cleveland Cavaliers	105
+320305005	2012-03-21	Cleveland Cavaliers	103	Utah	102
+320307007	2012-03-23	Denver	93	Cleveland Cavaliers	80
+320309025	2012-03-25	Oklahoma City	83	Cleveland Cavaliers	108
+320311005	2012-03-27	Cleveland Cavaliers	103	Houston	85
+320314015	2012-03-30	Milwaukee	84	Cleveland Cavaliers	121
+320318005	2012-03-31	Cleveland Cavaliers	91	Atlanta	75
+320321001	2012-04-04	Atlanta	107	Cleveland Cavaliers	98
+320323019	2012-04-06	Orlando	80	Cleveland Cavaliers	84
+320328005	2012-04-11	Cleveland Cavaliers	98	Detroit	104
+320330005	2012-04-13	Cleveland Cavaliers	102	Milwaukee	83
+320403005	2012-04-15	Cleveland Cavaliers	84	San Antonio	100
+320404015	2012-04-17	Milwaukee	116	Cleveland Cavaliers	77
+320410005	2012-04-22	Cleveland Cavaliers	114	Charlotte	98
+320411005	2012-04-23	Cleveland Cavaliers	109	Indiana	101
+320413011	2012-04-25	Indiana	85	Cleveland Cavaliers	96
+320414027	2012-04-26	Washington	107	Cleveland Cavaliers	75
+320415005	2012-12-26	Cleveland Cavaliers	91	Orlando	79
+320417008	2012-12-28	Detroit	89	Cleveland Cavaliers	105
+320422024	2012-01-02	San Antonio	89	Cleveland Cavaliers	78
+320423029	2012-01-04	Memphis	83	Cleveland Cavaliers	99
+320425005	2012-01-06	Cleveland Cavaliers	96	Washington	73
+311226011	2012-01-09	Indiana	92	Detroit Pistons	68
+311231008	2012-01-13	Detroit Pistons	81	Indiana	98
+320102008	2012-01-15	Detroit Pistons	91	Orlando	99
+320110008	2012-01-23	Detroit Pistons	99	Dallas	79
+320112015	2012-01-25	Milwaukee	98	Detroit Pistons	101
+320113030	2012-01-27	Charlotte	101	Detroit Pistons	107
+320117010	2012-01-30	Houston	103	Detroit Pistons	82
+320118016	2012-01-31	Minnesota	113	Detroit Pistons	86
+320120008	2012-02-01	Detroit Pistons	99	Memphis	96
+320121008	2012-02-03	Detroit Pistons	88	Portland	80
+320123025	2012-02-04	Oklahoma City	89	Detroit Pistons	87
+320125008	2012-02-08	Detroit Pistons	92	Miami	99
+320127008	2012-02-10	Detroit Pistons	109	Atlanta	92
+320130015	2012-02-14	Milwaukee	95	Detroit Pistons	99
+320203008	2012-02-19	Detroit Pistons	96	Milwaukee	81
+320204008	2012-02-21	Detroit Pistons	101	New Orleans	100
+320212008	2012-03-03	Detroit Pistons	100	Washington	83
+320214008	2012-03-06	Detroit Pistons	88	San Antonio	85
+320229008	2012-03-21	Detroit Pistons	116	Charlotte	115
+320303029	2012-03-23	Memphis	73	Detroit Pistons	88
+320309008	2012-03-26	Detroit Pistons	77	Atlanta	79
+320312026	2012-03-30	Utah	83	Detroit Pistons	71
+320321007	2012-04-06	Denver	101	Detroit Pistons	96
+320323008	2012-04-08	Detroit Pistons	98	Miami	75
+320326027	2012-04-12	Washington	85	Detroit Pistons	109
+320331008	2012-04-17	Detroit Pistons	116	Charlotte	77
+320403008	2012-04-18	Detroit Pistons	116	Orlando	84
+320405008	2012-04-19	Detroit Pistons	80	Washington	91
+320406001	2012-04-22	Atlanta	76	Detroit Pistons	73
+320408014	2012-04-23	Miami	103	Detroit Pistons	97
+320409019	2012-04-26	Orlando	108	Detroit Pistons	86
+320412030	2012-12-26	Charlotte	91	Detroit Pistons	79
+320413008	2012-12-28	Detroit Pistons	85	Milwaukee	90
+320418001	2012-01-02	Atlanta	94	Detroit Pistons	108
+320419008	2012-01-04	Detroit Pistons	118	Minnesota	83
+320423011	2012-01-07	Indiana	99	Detroit Pistons	77
+320104014	2012-01-22	Miami	96	Indiana Pacers	98
+320107011	2012-01-25	Indiana Pacers	90	Charlotte	95
+320111011	2012-01-29	Indiana Pacers	85	Atlanta	106
+320124011	2012-02-08	Indiana Pacers	97	Orlando	87
+320129019	2012-02-14	Orlando	90	Indiana Pacers	105
+320201016	2012-02-16	Minnesota	93	Indiana Pacers	88
+320203006	2012-02-19	Dallas	108	Indiana Pacers	73
+320204011	2012-02-21	Indiana Pacers	117	Orlando	108
+320207011	2012-02-22	Indiana Pacers	88	Utah	102
+320208001	2012-02-28	Atlanta	102	Indiana Pacers	78
+320210029	2012-03-03	Memphis	84	Indiana Pacers	102
+320211011	2012-03-05	Indiana Pacers	92	Denver	72
+320214011	2012-03-06	Indiana Pacers	96	Miami	101
+320219011	2012-03-13	Indiana Pacers	92	Charlotte	75
+320221011	2012-03-14	Indiana Pacers	111	New Orleans	94
+320222030	2012-03-16	Charlotte	115	Indiana Pacers	100
+320303003	2012-03-20	New Orleans	102	Indiana Pacers	89
+320306011	2012-03-23	Indiana Pacers	111	Atlanta	113
+320310014	2012-03-24	Miami	104	Indiana Pacers	125
+320311019	2012-03-26	Orlando	105	Indiana Pacers	90
+320313011	2012-03-28	Indiana Pacers	100	Portland	84
+320322027	2012-04-04	Washington	96	Indiana Pacers	109
+320324015	2012-04-07	Milwaukee	72	Indiana Pacers	86
+320326011	2012-04-09	Indiana Pacers	103	Miami	98
+320329011	2012-04-13	Indiana Pacers	102	Washington	83
+320331024	2012-04-14	San Antonio	99	Indiana Pacers	105
+320401010	2012-04-16	Houston	111	Indiana Pacers	88
+320404027	2012-04-19	Washington	118	Indiana Pacers	109
+320406011	2012-04-21	Indiana Pacers	106	Oklahoma City	109
+320414015	2012-12-30	Milwaukee	102	Indiana Pacers	81
+320416011	2012-01-02	Indiana Pacers	91	Minnesota	86
+320419011	2012-01-05	Indiana Pacers	103	Milwaukee	100
+311226030	2012-01-12	Charlotte	102	Milwaukee Bucks	93
+311227015	2012-01-13	Milwaukee Bucks	102	Minnesota	76
+311230015	2012-01-16	Milwaukee Bucks	94	Washington	82
+320102007	2012-01-17	Denver	95	Milwaukee Bucks	105
+320103026	2012-01-20	Utah	86	Milwaukee Bucks	100
+320110015	2012-01-27	Milwaukee Bucks	107	San Antonio	100
+320113006	2012-01-30	Dallas	103	Milwaukee Bucks	82
+320117015	2012-02-03	Milwaukee Bucks	88	Denver	80
+320122014	2012-02-07	Miami	105	Milwaukee Bucks	107
+320123015	2012-02-08	Milwaukee Bucks	99	Atlanta	105
+320125010	2012-02-10	Houston	112	Milwaukee Bucks	113
+320201015	2012-02-17	Milwaukee Bucks	94	Miami	85
+320211015	2012-03-03	Milwaukee Bucks	114	Orlando	98
+320213015	2012-03-05	Milwaukee Bucks	97	Miami	93
+320215015	2012-03-07	Milwaukee Bucks	104	New Orleans	106
+320217019	2012-03-09	Orlando	119	Milwaukee Bucks	114
+320220015	2012-03-12	Milwaukee Bucks	99	Orlando	105
+320228015	2012-03-16	Milwaukee Bucks	98	Washington	120
+320302001	2012-03-22	Atlanta	91	Milwaukee Bucks	100
+320303019	2012-03-23	Orlando	92	Milwaukee Bucks	112
+320320022	2012-04-06	Portland	95	Milwaukee Bucks	90
+320323030	2012-04-09	Charlotte	89	Milwaukee Bucks	109
+320327015	2012-04-14	Milwaukee Bucks	99	Atlanta	105
+320331015	2012-04-19	Milwaukee Bucks	118	Memphis	109
+320402027	2012-04-21	Washington	106	Milwaukee Bucks	95
+320406015	2012-04-25	Milwaukee Bucks	85	Charlotte	90
+320407015	2012-04-26	Milwaukee Bucks	87	Portland	74
+320409015	2012-12-25	Milwaukee Bucks	94	Oklahoma City	105
+320418027	2012-01-01	Washington	99	Milwaukee Bucks	82
+311225006	2012-01-11	Dallas Mavericks	85	Miami	90
+311226006	2012-01-13	Dallas Mavericks	102	Denver	76
+311229025	2012-01-14	Oklahoma City	99	Dallas Mavericks	60
+320101016	2012-01-18	Minnesota	91	Dallas Mavericks	89
+320102006	2012-01-19	Dallas Mavericks	91	Oklahoma City	94
+320105024	2012-01-23	San Antonio	93	Dallas Mavericks	87
+320107006	2012-01-25	Dallas Mavericks	90	New Orleans	105
+320119026	2012-02-08	Utah	95	Dallas Mavericks	105
+320121003	2012-02-10	New Orleans	97	Dallas Mavericks	104
+320125006	2012-02-13	Dallas Mavericks	96	Minnesota	92
+320127006	2012-02-15	Dallas Mavericks	102	Utah	84
+320129006	2012-02-17	Dallas Mavericks	75	San Antonio	82
+320201006	2012-02-20	Dallas Mavericks	89	Oklahoma City	73
+320208007	2012-03-02	Denver	97	Dallas Mavericks	92
+320210016	2012-03-03	Minnesota	102	Dallas Mavericks	96
+320211006	2012-03-05	Dallas Mavericks	95	Portland	91
+320215006	2012-03-08	Dallas Mavericks	96	Denver	94
+320229029	2012-03-19	Memphis	95	Dallas Mavericks	112
+320302003	2012-03-21	New Orleans	93	Dallas Mavericks	109
+320303006	2012-03-23	Dallas Mavericks	104	Utah	87
+320305025	2012-03-24	Oklahoma City	99	Dallas Mavericks	101
+320313006	2012-04-04	Dallas Mavericks	95	Washington	85
+320315006	2012-04-06	Dallas Mavericks	97	Charlotte	99
+320317006	2012-04-07	Dallas Mavericks	94	San Antonio	89
+320319007	2012-04-10	Denver	110	Dallas Mavericks	100
+320323024	2012-04-13	San Antonio	94	Dallas Mavericks	97
+320324010	2012-04-15	Houston	112	Dallas Mavericks	108
+320327006	2012-04-16	Dallas Mavericks	123	Houston	121
+320329014	2012-04-18	Miami	117	Dallas Mavericks	110
+320330019	2012-04-20	Orlando	104	Dallas Mavericks	94
+320404006	2012-04-26	Dallas Mavericks	106	Memphis	89
+320406006	2012-12-26	Dallas Mavericks	104	Portland	95
+320407029	2012-12-29	Memphis	105	Dallas Mavericks	85
+320413022	2012-01-03	Portland	108	Dallas Mavericks	99
+320416026	2012-01-06	Utah	109	Dallas Mavericks	94
+320418006	2012-01-07	Dallas Mavericks	95	Houston	98
+320426001	2012-01-13	Atlanta	103	Dallas Mavericks	89
+311226019	2012-01-14	Orlando	107	Houston Rockets	105
+311229010	2012-01-16	Houston Rockets	106	San Antonio	114
+311230029	2012-01-17	Memphis	97	Houston Rockets	80
+311231010	2012-01-19	Houston Rockets	90	Atlanta	88
+320106025	2012-01-25	Oklahoma City	99	Houston Rockets	105
+320107010	2012-01-27	Houston Rockets	103	Oklahoma City	76
+320110030	2012-01-28	Charlotte	97	Houston Rockets	84
+320111024	2012-01-30	San Antonio	108	Houston Rockets	120
+320114010	2012-02-03	Houston Rockets	99	Portland	81
+320116027	2012-02-04	Washington	100	Houston Rockets	91
+320119010	2012-02-08	Houston Rockets	96	New Orleans	103
+320121010	2012-02-09	Houston Rockets	89	San Antonio	96
+320123016	2012-02-12	Minnesota	106	Houston Rockets	97
+320127010	2012-02-15	Houston Rockets	96	Washington	95
+320130010	2012-02-19	Houston Rockets	101	Minnesota	85
+320201024	2012-02-20	San Antonio	97	Houston Rockets	93
+320204016	2012-02-28	Minnesota	88	Houston Rockets	85
+320206007	2012-03-02	Denver	105	Houston Rockets	117
+320208022	2012-03-04	Portland	103	Houston Rockets	105
+320214029	2012-03-10	Memphis	106	Houston Rockets	112
+320215010	2012-03-11	Houston Rockets	118	Oklahoma City	107
+320217010	2012-03-13	Houston Rockets	103	Minnesota	104
+320219010	2012-03-14	Houston Rockets	107	Utah	87
+320220010	2012-03-17	Houston Rockets	95	Memphis	91
+320229026	2012-03-22	Utah	109	Houston Rockets	83
+320302010	2012-03-24	Houston Rockets	99	Denver	101
+320313025	2012-04-06	Oklahoma City	107	Houston Rockets	112
+320314010	2012-04-08	Houston Rockets	87	Charlotte	104
+320330010	2012-04-21	Houston Rockets	99	Memphis	96
+320409022	2012-12-30	Portland	113	Houston Rockets	93
+320411010	2012-01-01	Houston Rockets	104	Utah	64
+320415007	2012-01-04	Denver	86	Houston Rockets	90
+320416010	2012-01-06	Houston Rockets	94	Denver	85
+320419003	2012-01-10	New Orleans	95	Houston Rockets	100
+320422014	2012-01-14	Miami	108	Houston Rockets	99
+320426010	2012-01-16	Houston Rockets	102	New Orleans	86
+311226024	2012-01-18	San Antonio	87	Memphis Grizzlies	93
+311228029	2012-01-20	Memphis Grizzlies	81	Oklahoma City	98
+320104016	2012-01-26	Minnesota	98	Memphis Grizzlies	91
+320106026	2012-01-28	Utah	86	Memphis Grizzlies	84
+320110029	2012-01-31	Memphis Grizzlies	100	Oklahoma City	97
+320114029	2012-02-03	Memphis Grizzlies	101	New Orleans	94
+320118003	2012-02-06	New Orleans	84	Memphis Grizzlies	89
+320124022	2012-02-14	Portland	93	Memphis Grizzlies	83
+320130029	2012-02-18	Memphis Grizzlies	104	San Antonio	103
+320131029	2012-02-20	Memphis Grizzlies	97	Denver	93
+320202001	2012-02-21	Atlanta	89	Memphis Grizzlies	76
+320203025	2012-03-02	Oklahoma City	99	Memphis Grizzlies	102
+320206029	2012-03-07	Memphis Grizzlies	92	San Antonio	110
+320208029	2012-03-10	Memphis Grizzlies	98	Minnesota	91
+320212029	2012-03-13	Memphis Grizzlies	111	Utah	116
+320217029	2012-03-20	Memphis Grizzlies	119	Denver	110
+320311007	2012-04-04	Denver	95	Memphis Grizzlies	85
+320318029	2012-04-09	Memphis Grizzlies	94	Washington	85
+320322022	2012-04-12	Portland	107	Memphis Grizzlies	97
+320327029	2012-04-17	Memphis Grizzlies	84	Minnesota	91
+320402025	2012-04-21	Oklahoma City	93	Memphis Grizzlies	89
+320406014	2012-12-26	Miami	84	Memphis Grizzlies	85
+320412024	2012-01-02	San Antonio	94	Memphis Grizzlies	90
+320414029	2012-01-04	Memphis Grizzlies	93	Utah	101
+320415003	2012-01-06	New Orleans	88	Memphis Grizzlies	96
+320417016	2012-01-07	Minnesota	96	Memphis Grizzlies	81
+320418029	2012-01-09	Memphis Grizzlies	81	New Orleans	94
+320420030	2012-01-11	Charlotte	85	Memphis Grizzlies	95
+320421029	2012-01-13	Memphis Grizzlies	80	Portland	87
+320426029	2012-01-16	Memphis Grizzlies	77	Orlando	84
+320102026	2012-01-25	Utah	101	New Orleans Pelicans	91
+320106003	2012-01-29	New Orleans Pelicans	72	Denver	94
+320109007	2012-02-01	Denver	103	New Orleans Pelicans	120
+320111003	2012-02-02	New Orleans Pelicans	93	Oklahoma City	81
+320113003	2012-02-04	New Orleans Pelicans	89	Minnesota	87
+320116003	2012-02-08	New Orleans Pelicans	67	Portland	90
+320123003	2012-02-17	New Orleans Pelicans	85	San Antonio	89
+320125025	2012-02-20	Oklahoma City	101	New Orleans Pelicans	93
+320127003	2012-02-21	New Orleans Pelicans	117	Orlando	108
+320129003	2012-02-22	New Orleans Pelicans	84	Atlanta	89
+320130014	2012-02-28	Miami	99	New Orleans Pelicans	95
+320202024	2012-03-03	San Antonio	84	New Orleans Pelicans	102
+320210003	2012-03-10	New Orleans Pelicans	89	Portland	95
+320213003	2012-03-12	New Orleans Pelicans	71	Utah	73
+320220025	2012-03-17	Oklahoma City	94	New Orleans Pelicans	102
+320305022	2012-03-31	Portland	88	New Orleans Pelicans	85
+320309007	2012-04-04	Denver	94	New Orleans Pelicans	92
+320310016	2012-04-06	Minnesota	128	New Orleans Pelicans	103
+320312003	2012-04-07	New Orleans Pelicans	99	Charlotte	90
+320315003	2012-04-11	New Orleans Pelicans	105	Washington	96
+320324003	2012-04-18	New Orleans Pelicans	103	San Antonio	91
+320329022	2012-04-24	Portland	81	New Orleans Pelicans	83
+320404003	2012-12-28	New Orleans Pelicans	115	Denver	90
+320406024	2012-12-29	San Antonio	105	New Orleans Pelicans	85
+320407003	2012-12-31	New Orleans Pelicans	104	Minnesota	89
+320413003	2012-01-05	New Orleans Pelicans	93	Utah	71
+320416030	2012-01-08	Charlotte	108	New Orleans Pelicans	96
+311231024	2012-01-23	San Antonio Spurs	102	Utah	104
+320102016	2012-01-25	Minnesota	105	San Antonio Spurs	83
+320107024	2012-01-30	San Antonio Spurs	73	Denver	83
+320108025	2012-02-01	Oklahoma City	99	San Antonio Spurs	91
+320113024	2012-02-06	San Antonio Spurs	84	Portland	89
+320117014	2012-02-11	Miami	89	San Antonio Spurs	103
+320118019	2012-02-14	Orlando	95	San Antonio Spurs	99
+320125024	2012-02-21	San Antonio Spurs	137	Atlanta	97
+320127016	2012-02-23	Minnesota	99	San Antonio Spurs	114
+320204024	2012-03-12	San Antonio Spurs	112	Oklahoma City	97
+320220026	2012-03-25	Utah	93	San Antonio Spurs	76
+320221022	2012-03-27	Portland	100	San Antonio Spurs	107
+320223007	2012-03-28	Denver	112	San Antonio Spurs	117
+320302024	2012-04-03	San Antonio Spurs	90	Charlotte	125
+320304024	2012-04-04	San Antonio Spurs	86	Denver	87
+320312024	2012-04-09	San Antonio Spurs	91	Washington	84
+320314024	2012-04-11	San Antonio Spurs	84	Orlando	98
+320316025	2012-04-12	Oklahoma City	107	San Antonio Spurs	97
+320321024	2012-04-16	San Antonio Spurs	99	Minnesota	120
+320408024	2012-12-30	San Antonio Spurs	105	Utah	98
+320409026	2012-12-31	Utah	95	San Antonio Spurs	84
+320423024	2012-01-14	San Antonio Spurs	93	Portland	91
+311228001	2012-01-21	Atlanta Hawks	121	Washington	94
+320102014	2012-01-27	Miami	101	Atlanta Hawks	107
+320105001	2012-01-31	Atlanta Hawks	77	Miami	100
+320106030	2012-02-02	Charlotte	77	Atlanta Hawks	96
+320112001	2012-02-10	Atlanta Hawks	87	Charlotte	89
+320114001	2012-02-12	Atlanta Hawks	87	Minnesota	107
+320118001	2012-02-15	Atlanta Hawks	99	Portland	101
+320210019	2012-03-14	Orlando	96	Atlanta Hawks	82
+320212001	2012-03-16	Atlanta Hawks	102	Miami	88
+320218022	2012-03-21	Portland	103	Atlanta Hawks	102
+320223001	2012-03-25	Atlanta Hawks	139	Orlando	133
+320303001	2012-03-30	Atlanta Hawks	100	Oklahoma City	90
+320307014	2012-04-04	Miami	120	Atlanta Hawks	93
+320313007	2012-04-11	Denver	88	Atlanta Hawks	86
+320316001	2012-04-15	Atlanta Hawks	86	Washington	102
+320324027	2012-04-24	Washington	109	Atlanta Hawks	102
+320325001	2012-04-26	Atlanta Hawks	106	Utah	89
+320404001	2012-01-03	Atlanta Hawks	115	Charlotte	101
+320407030	2012-01-06	Charlotte	96	Atlanta Hawks	102
+320413019	2012-01-09	Orlando	91	Atlanta Hawks	87
+311228030	2012-01-24	Charlotte Hornets	78	Miami	111
+311230030	2012-01-25	Charlotte Hornets	92	Orlando	75
+320101014	2012-01-27	Miami	89	Charlotte Hornets	72
+320117019	2012-02-19	Orlando	108	Charlotte Hornets	73
+320125027	2012-03-06	Washington	100	Charlotte Hornets	84
+320128030	2012-03-09	Charlotte Hornets	74	Washington	83
+320201022	2012-03-12	Portland	71	Charlotte Hornets	73
+320215016	2012-03-24	Minnesota	102	Charlotte Hornets	89
+320306030	2012-04-06	Charlotte Hornets	95	Orlando	90
+320307030	2012-04-07	Charlotte Hornets	96	Utah	116
+320310025	2012-04-10	Oklahoma City	103	Charlotte Hornets	90
+320328030	2012-04-25	Charlotte Hornets	102	Minnesota	95
+320330030	2012-04-26	Charlotte Hornets	84	Denver	104
+320409030	2012-01-02	Charlotte Hornets	92	Washington	100
+320413014	2012-01-07	Miami	90	Charlotte Hornets	101
+320423027	2012-01-21	Washington	113	Charlotte Hornets	92
+320425019	2012-01-22	Orlando	82	Charlotte Hornets	91
+311230016	2012-01-30	Minnesota	109	Miami Heat	95
+320113007	2012-02-13	Denver	96	Miami Heat	114
+320208019	2012-03-16	Orlando	78	Miami Heat	84
+320210027	2012-03-18	Washington	91	Miami Heat	81
+320219014	2012-03-29	Miami Heat	106	Orlando	85
+320301022	2012-04-03	Portland	99	Miami Heat	93
+320302026	2012-04-04	Utah	98	Miami Heat	93
+320313019	2012-04-13	Orlando	105	Miami Heat	82
+320318014	2012-04-18	Miami Heat	96	Orlando	72
+320325025	2012-04-22	Oklahoma City	97	Miami Heat	88
+320404014	2012-12-30	Miami Heat	79	Oklahoma City	100
+320421014	2012-01-18	Miami Heat	83	Washington	85
+320426027	2012-01-24	Washington	83	Miami Heat	102
+311225025	2012-01-26	Oklahoma City	83	Orlando Magic	91
+320104019	2012-02-04	Orlando Magic	81	Washington	85
+320111022	2012-02-10	Portland	87	Orlando Magic	89
+320201019	2012-03-06	Orlando Magic	100	Washington	84
+320213019	2012-03-19	Orlando Magic	59	Minnesota	85
+320229027	2012-04-03	Washington	102	Orlando Magic	95
+320301019	2012-04-05	Orlando Magic	80	Oklahoma City	96
+320401019	2012-01-02	Orlando Magic	100	Denver	92
+320410027	2012-01-11	Washington	78	Orlando Magic	64
+320421026	2012-01-20	Utah	104	Orlando Magic	108
+320422007	2012-01-22	Denver	94	Orlando Magic	100
+320108027	2012-02-08	Washington Wizards	93	Minnesota	107
+320118027	2012-02-20	Washington Wizards	104	Oklahoma City	88
+320120027	2012-02-22	Washington Wizards	107	Denver	115
+320214022	2012-03-25	Portland	88	Washington Wizards	76
+320217026	2012-03-29	Utah	93	Washington Wizards	89
+320310027	2012-04-10	Washington Wizards	93	Portland	85
+311228007	2012-01-31	Denver Nuggets	100	Utah	97
+311229022	2012-02-02	Portland	91	Denver Nuggets	112
+320115007	2012-02-19	Denver Nuggets	124	Utah	118
+320204022	2012-03-15	Portland	90	Denver Nuggets	103
+320219025	2012-03-30	Oklahoma City	88	Denver Nuggets	99
+320220007	2012-04-01	Denver Nuggets	101	Minnesota	104
+320229007	2012-04-07	Denver Nuggets	112	Portland	97
+320315007	2012-04-22	Denver Nuggets	101	Oklahoma City	74
+320323026	2012-12-27	Utah	98	Denver Nuggets	95
+320325016	2012-12-30	Minnesota	101	Denver Nuggets	103
+320411007	2012-01-14	Denver Nuggets	93	Minnesota	91
+320425025	2012-01-27	Oklahoma City	87	Denver Nuggets	79
+320426016	2012-01-29	Minnesota	101	Denver Nuggets	106
+311226016	2012-01-30	Minnesota Timberwolves	108	Oklahoma City	120
+320121026	2012-03-01	Utah	104	Minnesota Timberwolves	95
+320222016	2012-04-02	Minnesota Timberwolves	116	Utah	108
+320303022	2012-04-11	Portland	113	Minnesota Timberwolves	107
+320307016	2012-04-14	Minnesota Timberwolves	110	Portland	115
+320315026	2012-04-22	Utah	88	Minnesota Timberwolves	93
+320323025	2012-12-29	Oklahoma City	104	Minnesota Timberwolves	102
+320401022	2012-01-07	Portland	95	Minnesota Timberwolves	98
+320414016	2012-01-21	Minnesota Timberwolves	74	Oklahoma City	84
+320103025	2012-02-14	Oklahoma City Thunder	111	Portland	85
+320206022	2012-03-20	Portland	97	Oklahoma City Thunder	90
+320210026	2012-03-25	Utah	103	Oklahoma City Thunder	87
+320214025	2012-03-27	Oklahoma City Thunder	95	Utah	109
+320318025	2012-12-26	Oklahoma City Thunder	107	Portland	103
+320320026	2012-12-27	Utah	101	Oklahoma City Thunder	79
+320327022	2012-01-05	Portland	107	Oklahoma City Thunder	96
+320130026	2012-03-16	Utah	89	Portland Trail Blazers	100
+320402022	2012-01-14	Portland Trail Blazers	107	Utah	94
+320418022	2012-02-01	Portland Trail Blazers	105	Utah	107
+320426026	2012-02-06	Utah	99	Portland Trail Blazers	88
